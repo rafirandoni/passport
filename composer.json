@@ -39,7 +39,7 @@
     "repositories": [
         {
             "type": "git",
-            "url": "https://github.com/rafirandoni/oauth2-server"
+            "url": "https://github.com/rafirandoni/oauth2-server.git"
         }
     ],
     "autoload": {
